@@ -1,6 +1,6 @@
 ---
-title: "Blogs"
-permalink: /Blogs/
+title: "Projects"
+permalink: /Projects/
 layout: default
 author_profile: false
 ---

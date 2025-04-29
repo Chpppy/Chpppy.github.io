@@ -4,9 +4,7 @@ main:
     url: /
   - title: "Blogs"
     url: /Blogs/
-  - title: "Test"
-    url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Projects"
+    url: /Projects/
   # - title: "Sitemap"
   #   url: /sitemap/

@@ -1,8 +1,6 @@
 ---
 title: "Blogs"
 permalink: /Blogs/
-layout: archive
+layout: default
 author_profile: false
-header:
-    - image: "/asset/image/redflower.jpeg"
 ---

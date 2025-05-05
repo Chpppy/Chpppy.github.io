@@ -6,24 +6,6 @@ header:
     image_description: "Red Floawer, shooted in DLUT"
 tagline: "Be happy forever!"
 title: "Chpppy"
-# feature_row:
-#   - image_path: /asset/image/sakura.jpeg
-#     alt: "placeholder image 1"
-#     title: "Placeholder 1"
-#     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-#   - image_path: /asset/image/sakura.jpeg
-#     alt: "placeholder image 2"
-#     title: "Placeholder 2"
-#     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-#     # url: "#test-link"
-#     # btn_label: "Read More"
-#     # btn_class: "btn--inverse"
-#   - image_path: /asset/image/sunflower.jpeg
-#     title: "Placeholder 3"
-#     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-#   - image_path: /asset/image/sunflower.jpeg
-#     title: "Placeholder 3"
-#     excerpt: "This is some sample content that goes here with **Markdown** formatting."    
 
 gallery:
   - url: /asset/image/sakura.jpeg

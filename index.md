@@ -55,7 +55,7 @@ gallery_3:
     title: "Dalian, Liaoning"
     alt: "Sea"
 ---
-<h1>Photo Gallery</h1>
+<h1><i class="fa-solid fa-image"></i> Photo Gallery</h1>
 <!-- {% include feature_row %} -->
 {% include gallery caption="Shot in 2025 at the Development Zone Campus of Dalian University of Technology, China." %}
 

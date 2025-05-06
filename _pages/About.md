@@ -5,14 +5,14 @@ layout: single
 classes: wide
 author_profile: true
 sidebar:
-  - text: <i class="fa-brands fa-qq"></i> 2224938975
+  - text: <i class="fa-brands fa-qq"></i> tmp
 ---
 ---
 <i class="fa-solid fa-building-columns"></i> Educations
 <table>
     <thead>
         <tr>
-            <th>2023.09 - Present</th>
+            <th>2023 - Present</th>
             <th>Dalian University of Technology</th>
             <th>Artificial Intelligence (Master)</th>
         </tr>
@@ -27,7 +27,7 @@ sidebar:
     </tbody>
     <thead>
         <tr>
-            <th>2019.09 - 2023.06</th>
+            <th>2019 - 2023</th>
             <th>Zhejiang University of Technology</th>
             <th>Mathematics and Applied Mathematics (Bachelor)</th>
         </tr>

@@ -14,7 +14,7 @@ sidebar:
         <tr>
             <th>2023 - Present</th>
             <th>Dalian University of Technology</th>
-            <th>Artificial Intelligence (Master)</th>
+            <th>Artificial Intelligence <span style="color: rgb(107, 10, 10);">(Master)</span></th>
         </tr>
     </thead>
     <tbody>
@@ -24,12 +24,15 @@ sidebar:
             </td>
             <td colspan="2">Deep Learning | Machine Learning | Intelligent robot | Reinforcement Learning | Optimization Methods | Matrix Theory | Mathematical Statistics | Operating System | Computer Network | C++</td>
         </tr>
+        <!-- <tr>
+            <td colspan="3"></td>
+        </tr> -->
     </tbody>
     <thead>
         <tr>
             <th>2019 - 2023</th>
             <th>Zhejiang University of Technology</th>
-            <th>Mathematics and Applied Mathematics (Bachelor)</th>
+            <th>Mathematics and Applied Mathematics <span style="color: rgb(107, 10, 10);">(Bachelor)</span></th>
         </tr>
     </thead>
     <tbody>
@@ -41,3 +44,5 @@ sidebar:
         </tr>
     </tbody>
 </table>
+
+<i class="fa-solid fa-bars-progress"></i> Projects

@@ -1,9 +1,8 @@
 ---
 title: "About me"
 permalink: /About/
-layout: home
+layout: archive
 author_profile: true
 sidebar:
-  - text: <i class="fa-brands fa-qq"> 2224938975</i>
-
+  - text: <i class="fa-brands fa-qq"></i> 2224938975
 ---
